@@ -1,0 +1,17 @@
+{
+  "name": "deraczidiscordbot",
+  "productName": "deraczidiscordbot",
+  "version": "0.1.0",
+  "description": "deraczidiscordbot",
+  "main": "index.js",
+  "author": {
+    "name": "PINNITE"
+  },
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fivereborn-query": "^1.0.4"
+  }
+}
